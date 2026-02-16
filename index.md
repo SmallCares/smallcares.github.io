@@ -3,8 +3,7 @@
 Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I help teams deliver measurable outcomes with clarity, collaboration, and data‑driven decisions.
 
 ## Portfolio
-- Customer Success Playbook — templates to drive outcomes  
-  https://github.com/smallcares/customer-success-playbook
+- Customer Success Playbook — templates to drive outcomes https://github.com/smallcares/customer-success-playbook
 - Customer Success Framework — lifecycle, health, renewal, expansion  
   https://github.com/smallcares/customer-success-framework
 - QBR Template — executive-friendly quarterly reviews  
