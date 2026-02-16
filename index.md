@@ -4,7 +4,7 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
 
 ## Portfolio
 - Customer Success Playbook — templates to drive outcomes  
-  https://github.com/<your-username>/customer-success-playbook
+  https://github.com/smallcares/customer-success-playbook
 - Customer Success Framework — lifecycle, health, renewal, expansion  
   https://github.com/<your-username>/customer-success-framework
 - QBR Template — executive-friendly quarterly reviews  
