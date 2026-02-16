@@ -4,11 +4,14 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
 
 ## Portfolio
 
-- **Customer Success Playbook**  
-  [https://github.com/smallcares/customer-success-playbook](https://github.com/smallcares/customer-success-playbook)
-
 - **Customer Success Framework**  
   [https://github.com/smallcares/customer-success-framework](https://github.com/smallcares/customer-success-framework)
+
+- **Onboarding Journey Map**  
+  [https://github.com/smallcares/onboarding-journey-map](https://github.com/smallcares/onboarding-journey-map)
+  
+- **Customer Success Playbook**  
+  [https://github.com/smallcares/customer-success-playbook](https://github.com/smallcares/customer-success-playbook)
 
 - **QBR Template**  
   [https://github.com/smallcares/qbr-template](https://github.com/smallcares/qbr-template)
@@ -18,9 +21,6 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
 
 - **Voice of Customer (VoC) Framework**  
   [https://github.com/smallcares/voice-of-customer-framework](https://github.com/smallcares/voice-of-customer-framework)
-
-- **Onboarding Journey Map**  
-  [https://github.com/smallcares/onboarding-journey-map](https://github.com/smallcares/onboarding-journey-map)
 
 - **Team Coaching Guide**  
   [https://github.com/smallcares/team-coaching-guide](https://github.com/smallcares/team-coaching-guide)
