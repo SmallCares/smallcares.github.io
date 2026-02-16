@@ -4,7 +4,7 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
 
 ## Portfolio
 
-- [Customer Success Framework](https://github.com/SmallCares/customer-success-framework/tree/main/customer-success-framework)
+- [**Customer Success Framework**](https://github.com/SmallCares/customer-success-framework/tree/main/customer-success-framework)
 
 - **Onboarding Journey Map**  
   [https://github.com/smallcares/onboarding-journey-map](https://github.com/smallcares/onboarding-journey-map)
