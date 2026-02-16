@@ -1,3 +1,7 @@
+# Hi, I’m Sandy 
+Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I help teams deliver measurable outcomes with clarity, collaboration, and data‑driven decisions.
+
+
 ## Portfolio
 
 - **Customer Success Playbook**  
@@ -20,3 +24,8 @@
 
 - **Team Coaching Guide**  
   [https://github.com/smallcares/team-coaching-guide](https://github.com/smallcares/team-coaching-guide)
+
+
+## Connect
+- LinkedIn: [https://www.linkedin.com/in/sandyshailer](https://www.linkedin.com/in/sandyshailer)
+  
