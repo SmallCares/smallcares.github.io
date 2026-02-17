@@ -25,8 +25,7 @@ This space is not for code — **it’s for sharing:**
 
 - [Escalation Management](https://github.com/SmallCares/escalation-management/blob/main/escalation-management/README.md)
 
-- **Voice of Customer (VoC) Framework**  
-  [https://github.com/smallcares/voice-of-customer-framework](https://github.com/smallcares/voice-of-customer-framework)
+- [Voice of Customer (VoC) Framework](https://github.com/SmallCares/voice-of-customer-framework/blob/main/voice-of-customer-framework/README.md)
 
 - **Team Coaching Guide**  
   [https://github.com/smallcares/team-coaching-guide](https://github.com/smallcares/team-coaching-guide)
