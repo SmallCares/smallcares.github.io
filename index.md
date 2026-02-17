@@ -28,9 +28,12 @@ This space is not for code — it’s for sharing:
 
 - **Team Coaching Guide**  
   [https://github.com/smallcares/team-coaching-guide](https://github.com/smallcares/team-coaching-guide)
+  
 
 
 ## Connect with me
 - LinkedIn: [https://www.linkedin.com/in/sandyshailer](https://www.linkedin.com/in/sandyshailer)
+
+  
   
 Thanks for stopping by!
