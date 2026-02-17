@@ -10,8 +10,7 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
   
 - [Customer Success Playbook](https://github.com/SmallCares/customer-success-playbook/tree/main/customer-success-playbook)
   
-- **QBR Template**  
-  [https://github.com/smallcares/qbr-template](https://github.com/smallcares/qbr-template)
+- [QBR Template](https://github.com/SmallCares/qbr-template/blob/main/qbr-template/templates/qbr-template.md)
 
 - **Escalation Management**  
   [https://github.com/smallcares/escalation-management](https://github.com/smallcares/escalation-management)
