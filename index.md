@@ -2,6 +2,15 @@
 Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I help teams deliver measurable outcomes with clarity, collaboration, and data‑driven decisions.
 
 
+## What I’m passionate about
+Helping customers achieve real, measurable outcomes
+Building high‑performing, supportive Customer Success teams
+AI and how it can empower people, workflows, and accessibility
+Simplifying complex technical concepts for customers and executives
+What you’ll find in my GitHub
+This space is not for code — it’s for sharing:
+
+
 ## Portfolio
 
 - [Customer Success Framework](https://github.com/SmallCares/customer-success-framework/tree/main/customer-success-framework)
