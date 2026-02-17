@@ -36,4 +36,4 @@ This space is not for code — it’s for sharing:
 
   
   
-Thanks for stopping by!
+**Thanks for stopping by!**
