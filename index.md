@@ -8,7 +8,7 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
 - AI and how it can empower people, workflows, and accessibility
 - Simplifying complex technical concepts for customers and executives
   
-## What you’ll find in my GitHub
+### What you’ll find in my GitHub
 
 This space is not for code — it’s for sharing:
 
