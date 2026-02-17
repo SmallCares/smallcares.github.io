@@ -27,8 +27,7 @@ This space is not for code — **it’s for sharing:**
 
 - [Voice of Customer (VoC) Framework](https://github.com/SmallCares/voice-of-customer-framework/blob/main/voice-of-customer-framework/README.md)
 
-- **Team Coaching Guide**  
-  [https://github.com/smallcares/team-coaching-guide](https://github.com/smallcares/team-coaching-guide)
+- [Team Coaching Guide](https://github.com/SmallCares/team-coaching-guide/blob/main/team-coaching-guide/README.md) 
   
 
 
