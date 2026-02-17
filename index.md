@@ -34,7 +34,7 @@ This space is not for code — **it’s for sharing:**
 
 
 ## Connect with me
-- LinkedIn: [www.linkedin.com/in/sandyshailer](https://www.linkedin.com/in/sandyshailer)
+- [www.linkedin.com/in/sandyshailer](https://www.linkedin.com/in/sandyshailer)
 
 
 **Thanks for stopping by!**  
