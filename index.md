@@ -16,8 +16,9 @@ This space is not for code — **it’s for sharing:**
 ## Portfolio
 
 - [Customer Success Framework](https://github.com/SmallCares/customer-success-framework/blob/main/customer-success-framework/README.md)
-
+Coming soon!
 - [Onboarding Journey Map](https://github.com/SmallCares/onboarding-journey-map/blob/main/onboarding-journey-map/templates/onboarding-journey-map.md)
+Coming soon!
   
 - [Customer Success Playbook](https://github.com/SmallCares/customer-success-playbook/tree/main/customer-success-playbook)
   
