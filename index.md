@@ -8,7 +8,7 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
 
 - [Onboarding Journey Map](https://github.com/SmallCares/onboarding-journey-map/blob/main/onboarding-journey-map/templates/onboarding-journey-map.md)
   
-- [Customer Success Playbook*](https://github.com/SmallCares/customer-success-playbook/tree/main/customer-success-playbook)
+- [Customer Success Playbook](https://github.com/SmallCares/customer-success-playbook/tree/main/customer-success-playbook)
   
 - **QBR Template**  
   [https://github.com/smallcares/qbr-template](https://github.com/smallcares/qbr-template)
