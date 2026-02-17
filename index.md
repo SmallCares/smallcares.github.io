@@ -30,6 +30,7 @@ This space is not for code — it’s for sharing:
   [https://github.com/smallcares/team-coaching-guide](https://github.com/smallcares/team-coaching-guide)
 
 
-## Connect
+## Connect with me
 - LinkedIn: [https://www.linkedin.com/in/sandyshailer](https://www.linkedin.com/in/sandyshailer)
   
+Thanks for stopping by!
