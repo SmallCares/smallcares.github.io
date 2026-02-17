@@ -10,7 +10,7 @@ Customer Success Leader with 20+ years across SaaS, cybersecurity, and AI. I hel
   
 ### What you’ll find in my GitHub
 
-This space is not for code — ••it’s for sharing:••
+This space is not for code — **it’s for sharing:**
 
 
 ## Portfolio
